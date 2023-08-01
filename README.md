@@ -1,7 +1,7 @@
 # Johannes Vermeer "Love letter" example
 
 * This repository is forked from Kilian Brachtendorf's [JImageHash - Examples repository](https://github.com/KilianB/JImageHash-Examples)
-* It functions as a code example for a blog post ["Nicked love letter"](https://www.mindthemeaning.com/napatud-armastuskiri-est)
+* It functions as a code example for a blog post ["Nicked love letter"](http://www.mindthemeaning.com/kuukiri-est/2023/7/31/napatud-armastuskiri-est)
 * Irrelevant code has been removed
 * Images directly related with the blog post have been added to the images directory
 
